@@ -1,0 +1,7 @@
+build/
+node_modules/
+.sites-runtime/
+.wrangler/
+.env*
+.dev.vars*
+.DS_Store
